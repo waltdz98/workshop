@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "walter diaZ"
 date: "Fall semester"
 output: html_document
 ---
@@ -12,13 +12,96 @@ knitr::opts_chunk$set(echo = TRUE)
 Our project will be done using a sequence of save and commits.
 
 ## First Verse 
-<Put the first two verses of Jabberwocky by Lewis Carrol in this section>
+`Twas brillig, and the slithy toves
+
+Did gyre and gimble in the wabe:
+
+All mimsy were the borogoves,
+
+And the mome raths outgrabe.
+
+"Beware the Jabberwock, my son!
+
+The jaws that bite, the claws that catch!
+
+Beware the Jubjub bird, and shun
+
+The frumious Bandersnatch!"
 
 ## Second Verse
-<Put the first two verses of The Road Not Taken by Robert Frost here>
+Two roads diverged in a yellow wood,
+
+And sorry I could not travel both
+
+And be one traveler, long I stood
+
+And looked down one as far as I could
+
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+
+And having perhaps the better claim,
+
+Because it was grassy and wanted wear;
+
+Though as for that the passing there
+
+Had worn them really about the same,
 
 ## Third Verse
-<Put the first two verses of The Walrus and the Carpenter here>
+The sun was shining on the sea,
+
+Shining with all his might:
+
+He did his very best to make
+
+The billows smooth and bright--
+
+And this was odd, because it was
+
+The middle of the night.
+
+The moon was shining sulkily,
+
+Because she thought the sun
+
+Had got no business to be there
+
+After the day was done--
+
+"It's very rude of him," she said,
+
+"To come and spoil the fun!"
 
 ## Last Verse
-<Put a short poem of your choice 8-20 lines,here>
+Though I have never caught the word
+
+Of God from any calling bird,
+
+I hear all that the ancients heard.
+
+Though I have seen no deity
+
+Enter or leave a twilit tree,
+
+I see all that the seers see.
+ 
+A common stone can still reveal
+
+Something not stone, not seen, yet real.
+
+What may a common stone conceal?
+ 
+Nothing is far that once was near.
+
+Nothing is hid that once was clear.
+
+Nothing was God that is not here.
+ 
+
+Here is the bird, the tree, the stone.
+
+Here in the sun I sit alone
+
+
